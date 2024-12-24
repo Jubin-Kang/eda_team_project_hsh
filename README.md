@@ -4,7 +4,7 @@ EDA 프로젝트 3조 저장소. 떳다떳다 비행기
 <br />
 <p align="center">
   <a href="https://github.com/addinedu-ros-8th/eda-repo-3">
-    <img src="https://github.com/addinedu-ros-8th/eda-repo-3/edit/main/flowermen.jpg" alt="outcome" width="250" height="350">
+    <img src="https://github.com/addinedu-ros-8th/eda-repo-3/blob/main/flowermen.jpg" alt="outcome" width="250" height="350">
   </a>
 
   <h3 align="center">꽂보다남자 넷</h3>
