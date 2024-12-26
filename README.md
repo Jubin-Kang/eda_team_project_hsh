@@ -11,7 +11,7 @@ EDA 프로젝트 3조 저장소. home sweet home
   <h3 align="center">꽂보다남자 넷</h3>
 
   <p align="center">
-    로봇 SW 프로그래머는 몇년안에 집을 장만 할 수 있을까 ?
+    신입 로봇 SW 프로그래머는 몇년안에 집을 장만 할 수 있을까 ?
     <br />
     <br />
   </p>
@@ -35,7 +35,7 @@ EDA 프로젝트 3조 저장소. home sweet home
 소망: 회사와 출퇴근 가능한 지역에서 거주할 집을 매매 
 조건: 
 1. 부동산 
-- 전용면적 85제곱미터 이하()
+- 전용면적 85제곱미터 이하
 - 지역별 평균 매매가 기준
 
 2. 제정 
@@ -45,7 +45,7 @@ EDA 프로젝트 3조 저장소. home sweet home
 3.
 - 대출 및 저축을 병행하여 집을 사는 데 걸리는 시간을 계산   
 - 지역별 걸리는 시간
-- ㅈ
+
 ## Insructions
 ### Environment   
 - Dev: Jupyter Notebook - Python  
