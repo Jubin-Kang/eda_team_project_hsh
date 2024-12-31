@@ -27,9 +27,10 @@ EDA 프로젝트 3조 저장소. home sweet home
 다양한 요인을 종합적으로 분석하여 집을 사는 데 필요한 시간과 현실적인 재정 전략을 제시합니다
 ### Scenario
 |        | age | job | marriage | child | search |
-|--------|------|-----|-----|-----|
-| A | 20대 후반 |  Robot SW Developer | o | no | apt(25평) |   
-| B | 20대 후반 |  Robot SW Developer | x | no | opi(5~7평)|  
+|--------|------|-----|------|-----|-----|
+| A | 20대 후반 |  Robot SW Developer| o | no | apt(25평) |    
+| B | 20대 후반 |  Robot SW Developer| x | no | opi(5~7평)|     
+
 
 ## Insructions
 ### Environment   
