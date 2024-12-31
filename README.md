@@ -50,7 +50,14 @@ Dependencies include `seaborn 0.13.2`, `selenium 4.27.1`, `beautifulsoup4 4.12.3
 - Pandas: 데이터 조작 및 분석을 위한 파이썬 프로그래밍 언어 용으로 작성된 SW 라이브러리
 - Seaborn: Matplotlib을 기반으로 다양한 색상 테마와 통계용 차트 등의 시각화 패키지
 - Matplotlib: Python 프로그래밍 언어 및 수학적 확장 NumPy lib를 활용한 플로팅 라이브러리.
-
+```
+  pip install pandas
+  pip install selenium 
+  pip install matplotlib 
+  pip install seaborn 
+  pip install beautifulsoup
+  pip install ezodf
+```
 ## Responsibility
 |        | name | job |
 |--------|------|-----|
