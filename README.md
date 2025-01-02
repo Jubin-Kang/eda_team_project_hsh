@@ -132,6 +132,9 @@ NAVER 맵-길찾기 API를 사용한 결과, 자동차출퇴근 거리를 살펴
 
 ### 지역과 평수를 결정했다면, 구매하기 까지 고려해야할 것?
 - 세금
+  ![국세청_세금](https://github.com/user-attachments/assets/6b060e99-88f4-4da8-84bd-672e2a880f59)
+
+
 - 예금이자
   ![예금이자](https://github.com/user-attachments/assets/83a264b2-067c-47c1-b13b-a06277d37bea)
 - 주택담보대출이자
