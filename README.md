@@ -140,6 +140,8 @@ NAVER 맵-길찾기 API를 사용한 결과, 자동차출퇴근 거리를 살펴
 - 주택담보대출이자
   ![주담보](https://github.com/user-attachments/assets/09bd6991-2265-4a8e-b0cd-c82870634b1d)
 - 생활비
+  ![생활비지출](https://github.com/user-attachments/assets/4378fe18-39eb-4303-9a4c-fdd3878a9ba2)
+
  
 ## Project Schedule
 
