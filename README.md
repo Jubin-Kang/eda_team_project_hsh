@@ -1,5 +1,5 @@
 # eda-repo-3
-EDA 프로젝트 3조 저장소. home sweet home
+EDA 프로젝트 3조 저장소. Home Sweet Home
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
