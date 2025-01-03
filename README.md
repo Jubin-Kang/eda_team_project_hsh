@@ -74,11 +74,7 @@ Dependencies include `seaborn 0.13.2`, `selenium 4.27.1`, `beautifulsoup4 4.12.3
 | DATA   | 연봉, 부동산가격, 주거형태, 금리, 이동거리|        
          
 ### ER-Diagram 
-<img src="https://github.com/addinedu-ros-8th/eda-repo-3/blob/main/Home Sweet Home.jpg" alt="outcome" width="250" height="350">
-<p align="center">
-- 기업-사람 연관성을 조회할 수 있도록 join database 설계 
-  <br/>
-</p>
+![ER-Diagram](https://github.com/user-attachments/assets/0dc1663b-5592-4232-8309-e69d2646c212)
 
 ## Exploratory Data Analysis (EDA)
 ### 로봇 회사들은 주로 어디에 위치에 있는가? 🤖
