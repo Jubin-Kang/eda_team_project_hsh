@@ -57,8 +57,8 @@ Dependencies include `seaborn 0.13.2`, `selenium 4.27.1`, `beautifulsoup4 4.12.3
 ## Responsibility
 |        | name | job |
 |--------|------|-----|
-| leader | 남상기 |  크롤링 및 분석, 발표준비|   
-| worker | 강주빈 |  DB 구축 및 관리, 발표 자료준비|   
+| leader | 남상기 |  크롤링 및 분석, 발표자료준비|   
+| worker | 강주빈 |  DB 구축 및 관리, 발표 준비 및 발표|   
 | worker | 황한문 |  데이터분석, 프로젝트 서포트|    
 | worker | 임동욱 |  통계자료 수집 및 시각화|   
 
