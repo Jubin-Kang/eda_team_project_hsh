@@ -144,5 +144,5 @@ NAVER 맵-길찾기 API를 사용한 결과, 자동차출퇴근 거리를 살펴
 
  
 ## Project Schedule
-
-## Review
+Project Period: 2024.12.26~2025.01.03
+![Screenshot from 2025-01-03 12-14-27](https://github.com/user-attachments/assets/9e7cb741-095a-40fd-8d33-8c28dd6634e4)
