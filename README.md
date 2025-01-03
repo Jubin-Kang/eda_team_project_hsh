@@ -17,7 +17,7 @@ EDA 프로젝트 3조 저장소. home sweet home
 
 <hr>
 
-## Preview  
+## Result
 |        | apt area | price | save_period | payback_period | total_period |
 |--------|------|------|------|------|------|
 | single   | 10평| 1억1천| 10.6개월| 10년|10년10.6개월 
