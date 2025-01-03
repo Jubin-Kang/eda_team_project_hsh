@@ -32,12 +32,6 @@ EDA 프로젝트 3조 저장소. home sweet home
 - DB: AWS RDS - MySQL
 - Collab: Jira, Confluence and Slack   
 
-## Insructions
-### Environment   
-- Dev: Jupyter Notebook - Python  
-- DB: AWS RDS - MySQL
-- Collab: Jira, Confluence and Slack   
-
 ### Installation 
 #### Linux
 Dependencies include `seaborn 0.13.2`, `selenium 4.27.1`, `beautifulsoup4 4.12.3`, `pandas 2.2.3`
